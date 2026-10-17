@@ -1,0 +1,30 @@
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# downloaded data and archives (regenerate with `python -m flightops.cli all`)
+data/
+*.zip
+
+# generated warehouse and Parquet outputs
+*.duckdb
+*.duckdb.wal
+*.parquet
+
+# secrets and local settings
+.env
+.env.*
+.streamlit/secrets.toml
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

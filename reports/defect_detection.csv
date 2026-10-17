@@ -1,0 +1,5 @@
+defect_type,injected,caught,rejected,removed_as_duplicate,missed
+duplicate,752,752,14,738,0
+impossible_duration,407,407,407,0,0
+invalid_timestamp,504,504,504,0,0
+missing_field,506,506,506,0,0

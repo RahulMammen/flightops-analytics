@@ -1,0 +1,3 @@
+record_id,flight_number,flight_date,aircraft_id,origin,destination,sched_dep_utc,sched_arr_utc,actual_dep_utc,actual_arr_utc,cancelled
+R01,FX1,2026-01-01,FX-001,NORA,KRIS,2026-01-01 08:00,2026-01-01 09:00,2026-01-01 08:10,2026-01-01 09:05,0
+R16,FX2,2026-01-01,FX-001,KRIS,NORA,2026-01-01 09:45,2026-01-01 10:45,2026-01-01 10:07,2026-01-01 11:02,0
